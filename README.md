@@ -147,8 +147,8 @@
 
 <p align="center" ><img style="padding: 10px;" style="padding:10px;" src="https://github-profile-trophy.vercel.app/?username=the-kaushal-agrawal&theme=darkhub&row=1&column=5" alt="the-kaushal-agrawal" /> </p>
 
- 
-  Let's Connect :
+ <hr/>
+  **Let's Connect** :
 </h2>
 <p align="center" style="padding:10px;">
 <a href="https://www.linkedin.com/in/kaushal-agrawal11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal" height="30" width="40" /></a>
