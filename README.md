@@ -11,7 +11,7 @@
  
   
 
-- 🌱 I’m currently learning *Machine Learning, Data Science** 
+- 🌱 I’m currently learning **Machine Learning, Data Science** 
 
 - 🧑‍🤝‍🧑 I’m Full Stack Web Developer
 
