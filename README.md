@@ -141,7 +141,7 @@
 
   
  
-<p><img align="left" style="padding:2px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-kaushal-agrawal&langs_count=8&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-kaushal-agrawal" /></p>
+<p><img align="left" style="padding:5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-kaushal-agrawal&langs_count=8&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-kaushal-agrawal" /></p>
 
 <p>&nbsp;&nbsp;<img align="right" style="padding:2px;" src="https://github-readme-streak-stats.herokuapp.com/?user=the-kaushal-agrawal&theme=dark" alt="the-kaushal-agrawal" /></p>
 
