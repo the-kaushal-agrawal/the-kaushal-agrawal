@@ -1,23 +1,23 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-kaushal-agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p>
  
  <p align="center">
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 <h1 align="center">Hi, I'm Kaushal Agrawal<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate full stack developer and  student from NIT Jalandhar.</h3>
+<h3 font-size="20" align="center">A passionate Full Stack Web Developer and  student from NIT Jalandhar.</h3>
 
 
   <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
  
   
 
-- 🌱 I’m currently learning Machine Learning, Data Science 
+- 🌱 I’m currently learning *Machine Learning, Data Science** 
 
 - 🧑‍🤝‍🧑 I’m Full Stack Web Developer
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 💬 Ask me about **C++, Web Dev, DBMS, Data Structures Algorithms**
+- 💬 Ask me about **C++, Web Dev, DBMS, Data Structures And Algorithms**
 
 - 📄 Know about my experiences [@Portfolio](//)
  
@@ -141,26 +141,22 @@
 
   
  
-<p><img align="left" style="padding:5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravinder-chadha&langs_count=8&show_icons=true&theme=dark&locale=en&layout=compact" alt="ravinder-chadha" /></p>
+<p><img align="left" style="padding:5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-kaushal-agrawal&langs_count=8&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-kaushal-agrawal" /></p>
 
-<p>&nbsp;&nbsp;<img align="right" style="padding:2px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ravinder-chadha&theme=dark" alt="ravinder-chadha" /></p>
+<p>&nbsp;&nbsp;<img align="right" style="padding:2px;" src="https://github-readme-streak-stats.herokuapp.com/?user=the-kaushal-agrawal&theme=dark" alt="the-kaushal-agrawal" /></p>
 
-<p align="center" ><img style="padding: 10px;" style="padding:10px;" src="https://github-profile-trophy.vercel.app/?username=ravinder-chadha&theme=darkhub&row=1&column=5" alt="ravinder-chadha" /> </p>
+<p align="center" ><img style="padding: 10px;" style="padding:10px;" src="https://github-profile-trophy.vercel.app/?username=the-kaushal-agrawal&theme=darkhub&row=1&column=5" alt="the-kaushal-agrawal" /> </p>
 
  
-<h2><a target="_blank">
-  <img src="assets/Handshake.gif" height="30px" style="max-width:100%;">
-  </a>
   Let's Connect :
 </h2>
 <p align="center" style="padding:10px;">
-<a href="https://linkedin.com/in/ravinder-chadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravinder-chadha" height="30" width="40" /></a>
-<a href="https://twitter.com/wise_wizard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wise_wizard_" height="30" width="40" /></a>
-<a href="https://instagram.com/ravinder_chadha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravinder_chadha_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ravinder1233" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravinder1233" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ravinderchadha11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravinderchadha11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/wisewizard1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="wisewizard1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ravinder_chadha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravinder_chadha_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaushal-agrawal11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal" height="30" width="40" /></a>
+<a href="https://twitter.com/Kaushal15355043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushal" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/kaushalagr11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaushal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Kaushal_Agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaushal" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kaushalagrawal11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kaushal" height="30" width="40" /></a>
+<a href="https://leetcode.com/kaushal_agrawal_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushal" height="30" width="40" /></a>
 </p>
 
 <br>
