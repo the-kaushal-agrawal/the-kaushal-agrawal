@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **C++, Web Dev, DBMS, Data Structures And Algorithms**
 
-- 📄 Know about my experiences  <a href="kaushalagr.me">@Portfolio</a>
+- 📄 Know about my experiences  <a href="https://kaushalagr.me">@Portfolio</a>
  
 
 
