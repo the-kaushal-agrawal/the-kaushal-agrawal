@@ -11,15 +11,15 @@
  
   
 
-- 🌱 I’m currently learning **Machine Learning, Data Science** 
+- 🌱 I’m currently learning **Machine Learning, Deep Learning** 
 
-- 🧑‍🤝‍🧑 I’m Full Stack Web Developer
+- 🧑‍🤝‍🧑 I’m Full Stack Web Developer 
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 💬 Ask me about **C++, Web Dev, DBMS, Data Structures And Algorithms**
+- 💬 Ask me about **C++, Web Dev, Data Structures And Algorithms, Python**
 
-- 📄 Know about my experiences  <a href="https://kaushalagr.me">@Portfolio</a>
+- 📄 Want to know about my experiences  <a href="https://kaushalagr.me">@Portfolio</a>
  
 
 
